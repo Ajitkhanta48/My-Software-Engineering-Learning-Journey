@@ -5,6 +5,7 @@ Welcome to my open-source learning series where I document my daily progress tow
 ---
 
 ## 📘 About This Series
+**Started on: 1st July 2025**
 
 This is a hands-on learning journey focused on:
 - Practical coding exercises
@@ -16,7 +17,7 @@ Whether you're a beginner or revising the fundamentals, feel free to follow alon
 
 ---
 
-## 📅 Learning Roadmap
+## Learning Roadmap
 
 Here's a quick glance at the fields I'll be mastering:
 
