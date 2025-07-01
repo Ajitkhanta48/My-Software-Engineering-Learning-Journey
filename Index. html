@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Software Engineering Learning Journey</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f5f5f5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #004080;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    h1, h2 {
+      color: #004080;
+    }
+
+    section {
+      margin-bottom: 2rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      background-color: #eee;
+      margin-top: 2rem;
+    }
+
+    ul {
+      line-height: 1.8;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>My Software Engineering Learning Journey</h1>
+    <p>By Ajit Khanta</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>📘 About This Series</h2>
+      <p>This is a personal learning series where I document everything I learn on my journey to become a skilled software engineer. Each week, I explore a new topic, build projects, and share my progress here on GitHub.</p>
+    </section>
+
+    <section>
+      <h2>📅 Learning Roadmap</h2>
+      <ul>
+        <li>Frontend Development (HTML, CSS, JS, React)</li>
+        <li>Backend Development (Python Flask, Node.js)</li>
+        <li>Version Control (Git & GitHub)</li>
+        <li>Databases (SQL & NoSQL)</li>
+        <li>DevOps & Deployment</li>
+        <li>Testing & Debugging</li>
+        <li>Cloud, System Design & Projects</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🚀 My Goal</h2>
+      <p>To become a job-ready full-stack developer by mastering all core fields of software engineering and building real-world projects.</p>
+    </section>
+
+    <section>
+      <h2>📌 GitHub Repo Structure</h2>
+      <ul>
+        <li>Frontend-Development/</li>
+        <li>Backend-Development/</li>
+        <li>Projects/</li>
+        <li>Cloud-and-DevOps/</li>
+        <li>System-Design-and-Testing/</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🧠 Daily Updates</h2>
+      <p>I’ll be updating this repository every day with what I’ve learned. Feel free to follow along or give suggestions!</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Ajit Khanta | Let's Code and Grow Together 🌱</p>
+  </footer>
+
+</body>
+</html>
