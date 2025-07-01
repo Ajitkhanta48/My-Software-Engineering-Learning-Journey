@@ -16,7 +16,7 @@ This is a hands-on learning journey focused on:
 Whether you're a beginner or revising the fundamentals, feel free to follow along!
 
 ---
-
+![Poster](https://github.com/Ajitkhanta48/My-Software-Engineering-Learning-Journey/blob/main/1000081113.png) 
 ## Learning Roadmap
 
 Here's a quick glance at the fields I'll be mastering:
